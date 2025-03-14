@@ -1,4 +1,4 @@
-# Guia GitFlow customizado
+# Guia GitFlow Otimizado
 
 Este guia define um fluxo de trabalho **GitFlow otimizado** para garantir que **todas as features estejam disponíveis no ambiente de desenvolvimento** (`dev`), mas **somente as aprovadas subam para produção**, de forma organizada e rastreável.
 
